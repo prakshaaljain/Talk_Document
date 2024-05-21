@@ -1,0 +1,505 @@
+Page 1 Text:
+Recruitment Policy
+Owned by: HR Department
+SequelOne Solutions
+SequelOne Solutions Pvt. Ltd. – Recruitment Policy
+Effective Date 1st Mar 2017
+Version 01
+Prepared By Human Resource Team
+Approved By People Council
+Notes:
+ Only controlled hardcopies of the document shall have signatures on them.
+ This is a company confidential document. Unauthorized access or copying is
+prohibited.
+ Uncontrolled when printed unless signed by approving authority
+
+Table: Page_1_Table_1
+Headers: , SequelOne Solutions Pvt. Ltd. – Recruitment Policy, , , , 
+Data:
+            SequelOne Solutions Pvt. Ltd. – Recruitment Policy                                     
+                                                                                                   
+                                                Effective Date                        1st Mar 2017 
+                                                                                                   
+    Version                                                                 01                     
+                                                   Prepared By                 Human Resource Team 
+                                                                                                   
+Approved By                                                     People Council                     
+                                                                                                   
+
+Page 2 Text:
+Table of Contents
+1. Purpose ...................................................................................................... 3
+2. Scope ......................................................................................................... 3
+3. Acronyms & Definitions .............................................................................. 3
+3.1 Acronyms ................................................................................................ 3
+3.2 References ............................................................................................. 3
+4. Responsibilities .......................................................................................... 3
+5. Process Map 1: Selection Procedure Workflow ......................................... 4
+6. Entry Criteria .............................................................................................. 4
+Inputs .................................................................................................................... 4
+7. Tasks ......................................................................................................... 5
+7.1 Recruitment Plan .................................................................................... 5
+7.2 Sourcing of CVs/Resume of Candidates ................................................ 5
+7.2.1 Internal References ............................................................................. 5
+7.2.2 Advertisement in SEQUELONEs Corporate Portal / Job Sites /
+Newspapers .................................................................................................... 5
+7.2.3 Recruitment consultants ...................................................................... 5
+7.2.4 Outsourcing Agencies/Contract employment / Interns ........................ 5
+7.3 Screening and Short-listing ..................................................................... 6
+7.4 Interview & Selection Procedure ............................................................. 6
+7.4.1 For Candidates within NCR ................................................................. 6
+7.4.1.1 HR Interview .................................................................................... 6
+7.4.1.2 Technical Interview .......................................................................... 6
+7.4.2 Outstation Candidates (Candidates lined-up by the recruiter at
+location other than where he/she is located): .................................................. 7
+7.5 Final selection ......................................................................................... 7
+7.6 Notice period Buyout / Joining Bonus: - .................................................. 7
+7.7 Pre Joining Documentation: - ................................................................. 7
+7.8 Provisional Offer Letter ........................................................................... 7
+7.11 Reference Check ................................................................................ 8
+Note : The Company may decide to do a Background check through the 3rd
+Party vendor as per the need. ....................................................................... 10
+7.12 Relocation Benefit ............................................................................... 10
+8. Exit Criteria of Recruitment Process ........................................................ 10
+
+Page 3 Text:
+Recruitment Process
+1. Purpose
+To define the process for the recruitment of personnel in SequelOne.
+2. Scope
+All employees on the payroll of SEQUELONE shall be covered under this policy
+3. Acronyms & Definitions
+3.1 Acronyms
+Abbreviation Description
+CEO Chief Executive Officer
+CV Curriculum Vitae
+HR Human Resource
+Function Head Head of Function
+MRF Manpower Requisition Form
+RFR Request for Requisition
+NCR National Capital Region
+3.2 References
+Document
+Document Title Document Reference No.
+Category
+Request for Requisition Online
+Formats
+RFR Tracker Online
+Application for Employment Form 100
+Ex-Employee Hiring Form Form 108
+Forms HR- Interview Assessment Form Form 103
+Interview Assessment Form (Non Manager) Form104
+Interview Assessment Form (Manager) Form105
+4. Responsibilities
+Sl. No. Task Responsibility
+1 Manpower Requisition Function Head
+2 Formulation of sourcing strategy Head – HR
+3 Selection procedure Head – HR
+4 Initial interview – Personality HR Representative
+5 Arranging Technical interview rounds HR Representative
+6 Technical Interviews Supervisors & Above as per “Table
+1”
+7 Salary Negotiation HR Representative
+8 Issue Offer Letter Assistant / Manager – HR
+Version No. 0.1 Page 3 of 10 Release Date: 1/03/17
+
+Table: Page_3_Table_1
+Headers: , Abbreviation, , , Description, 
+Data:
+              Abbreviation                            Description 
+          CEO                 Chief Executive Officer             
+           CV                        Curriculum Vitae             
+           HR                          Human Resource             
+Function Head                        Head of Function             
+          MRF               Manpower Requisition Form             
+          RFR                 Request for Requisition             
+          NCR                 National Capital Region             
+
+Table: Page_3_Table_2
+Headers: , Document, , , , , , , 
+Data:
+        Document                                                                                          
+                                                          Document Title           Document Reference No. 
+        Category                                                                                          
+                                                                                                          
+Formats                           Request for Requisition                   Online                        
+                                              RFR Tracker                   Online                        
+  Forms                        Application for Employment                 Form 100                        
+                                  Ex-Employee Hiring Form                 Form 108                        
+                            HR- Interview Assessment Form                 Form 103                        
+                  Interview Assessment Form (Non Manager)                  Form104                        
+                      Interview Assessment Form (Manager)                  Form105                        
+
+Table: Page_3_Table_3
+Headers: , Sl. No., , , Task, , , Responsibility, 
+Data:
+  Sl. No.                                       Task                                        Responsibility 
+1                          Manpower Requisition                               Function Head                
+2              Formulation of sourcing strategy                                   Head – HR                
+3                           Selection procedure                                   Head – HR                
+4               Initial interview – Personality                           HR Representative                
+5          Arranging Technical interview rounds                           HR Representative                
+6                          Technical Interviews       Supervisors & Above as per “Table\n1”                
+7                            Salary Negotiation                           HR Representative                
+8                            Issue Offer Letter                    Assistant / Manager – HR                
+
+Page 4 Text:
+5. Process Map 1: Selection Procedure Workflow
+6. Entry Criteria
+Manpower request to Recruitment Department.
+Inputs
+Manpower requisition received through HRIS as and when the requirement is there.
+All appointments in the Company will be made against approved manpower requirement. The Requisition Form
+must contain the job description and the relevant experience, competencies, etc. for the position as mentioned in the
+prescribed format (HRIS).
+Authorization for making a request for Manpower requisitions: -
+Version No. 0.1 Page 4 of 10 Release Date: 1/03/17
+
+Page 5 Text:
+Business Unit Authorized Raiser Authorized Approver
+Corporate Function Head CEO
+EOSS Function Head BU Head
+EROS Function Head CEO
+ERAS Function Head CEO
+7. Tasks
+7.1 Recruitment Plan
+The Recruitment Department initiates the sourcing of suitable candidates for the identified requirements as per
+Recruitment plan derived from RFRs received.
+The available sources can be any of those listed in section 7.2.
+7.2 Sourcing of CVs/Resume of Candidates
+7.2.1 Internal References
+ All employees at SEQUELONE are informed of the vacancy on (HRIS) and they can refer candidates according
+to the requirements for which they are rewarded as per Employee Referral Policy.
+7.2.2 Advertisement in SEQUELONEs Corporate Portal / Job Sites / Newspapers
+ Recruitment Department posts the Job Openings on Job Sites as per instructions of Head – HR. The
+advertisement content will be prepared on the basis of the job specification.
+ Link to the job openings will be provided on SEQUELONEs Corporate Portal.
+ Draft of advertisement for the Newspapers will be prepared & will be sent to the Head – HR for approval.
+The approved advertisement is then published.
+7.2.3 Recruitment consultants
+ Recruitment department will maintain an updated list of placement consultants and liaison with them
+for sourcing the candidates.
+ The recruitment consultants shall be empanelled / finalized by the Head-HR after considering the
+reputation of the consultant on the terms and conditions as prescribed by the Head – HR.
+ Any positions to be outsourced to Recruitment Consultants shall have prior approval from the Head-HR
+7.2.4 Outsourcing Agencies/Contract employment / Interns
+ For short term positions the Recruitment department can hire candidates on contract.
+For this, the organization enters into contract agreement either with the individual or any outsourcing
+agency.
+7.2.5 Campus
+ To fulfill our continuous demand for trained Manpower over the long term in line with the Manpower
+Forecast & to source best Management Talent from the Top B Schools for the Management level
+positions the Recruitment Department will maintain the List of Campuses along with the details of the
+Talent Pool which could be hired from there.
+ Recruitment team conducts periodical campus drives along with the Hiring Managers. The Hiring
+Managers will make final recommendation on hiring the selected candidates.
+Version No. 0.1 Page 5 of 10 Release Date: 1/03/17
+
+Table: Page_5_Table_1
+Headers: Business Unit, Authorized Raiser, Authorized Approver
+Data:
+Business Unit Authorized Raiser Authorized Approver
+    Corporate     Function Head                 CEO
+         EOSS     Function Head             BU Head
+         EROS     Function Head                 CEO
+         ERAS     Function Head                 CEO
+
+Page 6 Text:
+ The selected candidates would be allocated the location on the basis of their preferences, by the
+Recruitment Manager along with the Division Head or his / her Representative.
+7.2.6 Training Institutions: -
+ To create the pool of trained resources for front line the Recruitment Department will engage Training
+Institutions for sourcing the candidates as per qualification communicated by SEQUELONE & for training
+the selected candidates on the skills specified by SEQUELONE.
+ Recruitment team conducts periodical interviews in partnership with the Training institutions & hires the
+candidates who have successfully completed the specified training after final review.
+o The hired candidates are allocated to the Functions by the HR Manager / Head after analyzing
+requirements.
+7.3 Screening and Short-listing
+The CVs received from any of the above channels are screened for:
+ Job specifications
+ Relevant experience
+ Educational qualification
+ Salary Fitment
+ Any other specific attributes
+The shortlisted candidates are scheduled for an Interview
+7.4 Interview & Selection Procedure
+7.4.1 For Candidates within NCR
+7.4.1.1 HR Interview
+ Member of Recruitment team takes the HR interview for assessing behavioral competencies critical
+to the specified job.
+ The feedback is filled in the designated HR Interview Assessment Form.
+ Suitable candidates are forwarded for a technical interview.
+7.4.1.2 Technical Interview
+ 1st round of technical interview takes place as per the table 1.
+ The interviewers fill up the designated Technical Interview Assessment Form.
+ The candidature of shortlisted candidates is forwarded for the Final interview as per Table-1.
+Table 1
+Position Level HR Interview Technical Interview Final Interview
+Exec / Sr. Exec Skip Level Manger or
+Band 6 Immediate Manager above
+Assistant / Manager HR Skip Level Manger or
+Band 5 Immediate Manager above
+Band 4, 3, 2 & 1 Manager / Head HR Immediate Manager CEO / Director
+Version No. 0.1 Page 6 of 10 Release Date: 1/03/17
+
+Table: Page_6_Table_1
+Headers: Position Level, HR Interview, Technical Interview, Final Interview
+Data:
+  Position Level           HR Interview Technical Interview             Final Interview
+          Band 6        Exec / Sr. Exec   Immediate Manager Skip Level Manger or\nabove
+          Band 5 Assistant / Manager HR   Immediate Manager Skip Level Manger or\nabove
+Band 4, 3, 2 & 1      Manager / Head HR   Immediate Manager              CEO / Director
+
+Page 7 Text:
+7.4.2 Outstation Candidates (Candidates lined-up by the recruiter at location other than where he/she is
+located)
+ Outstation candidates are interviewed over the telephone for initial HR assessment.
+ Candidates residing at places where SEQUELONE offices are located, may be required to visit for an in-
+person interview at local SequeIOne office in these locations.
+ Candidates applying for Band 1,2,3 and 4 positions are required to come over for a face to face interview
+at Head Office as desired by HR Head.
+ Their final selection lies with CEO/Director.
+ The travel cost of the candidate may be reimbursed subject to the final approval of the CEO / Director.
+7.5 Final selection
+ Candidate Selected will complete the Pre Joining Documentation Process (see point 7.7)
+ An offer is extended to candidates who successfully clear the selection criteria.
+ Salary offered to the candidates is based on the available salary matrix followed within the organization. Any
+deviation in the salary offered is subject to approval by Director / CEO.
+7.6 Notice period Buyout / Joining Bonus: -
+ For an urgent requirement the selected candidate can be compensated for the Shortfall in Notice Period
+served in Previous Organization or paid Joining Bonus by SEQUELONE subject to prior approval of Function
+Head & CEO / Director.
+ The Employee who shall be compensated for Shortfall in Notice Period or Paid Joining Bonus shall work with
+SEQUELONE for not less than a period of 12 months from date of Joining, failing which the amount paid by
+SEQUELONE shall be refunded in Full before Full & Final Settlement during Exit.
+7.7 Pre Joining Documentation: -
+ The Recruitment Representative collects fowling documents before releasing Offer: -
+1. Application Form signed by Authorized Hiring Authority - (Form – 100)
+2. Resume of the Job Applicant
+3. Proof of Identity (“Passport” OR “Voter ID” OR “PAN Card” OR “Driving License” OR “Aadhar Card”)
+4. Proof of Age (“Passport” OR “Adhar” OR “10th Certificate” OR “Pan Card” OR “Driving License”)
+5. Proof of Permanent Address (“Passport” OR “Aadhar” OR “Driving License” OR “Electricity Bill” OR “Rent
+Agreement” OR “Voter ID”)
+6. Proof of Experience (If monthly salary offered is more than Rs.15,000/-)
+7. Last 3 months Salary Slip or Bank Statement (If monthly salary offered is more than Rs.15,000/-)
+8. Copy of Pan Card (If Salary is more than Rs.20,000)
+9. Offer / Appointment Letter with Salary Annexure & Last Increment Letter
+7.8 Provisional Offer Letter
+ Offer letter is generated to the selected candidate after getting approval from authorized personnel for final
+interview as per “Table 1”
+ Offer letters gives details about the Designation, Salary Offered, Date of Joining, and Conditions for joining. It
+is a proof of selecting a candidate.
+7.9 On boarding Process: -
+7.9.1 Documentation: -
+ The HR / Recruitment Representative collects following documents on date of joining (not later than 5 days
+from date of joining) : -
+Version No. 0.1 Page 7 of 10 Release Date: 1/03/17
+
+Page 8 Text:
+1. Joining Form signed by the Employee
+2. Education Certificates
+3. Relieving / Experience Letters from all previous employers (For employees having more than 6 months
+prior experience)
+4. Cancelled cheque / Passbook with employee name, account no. & IFSC code
+5. Copy of 10th & 12th Certificate
+6. Copy of highest qualification
+7. 4 Passport Size photographs
+8. Form 11 (PF)
+9. Form 1 (ESI)
+10. Letter of Appointment (to be generated in duplicate with one copy signed by employee)
+11. Non-Disclosure Agreement (to be generated in duplicate with one copy signed by employee)
+7.10 Induction Procedure
+On the joining day, candidates are taken through the SequelOne induction presentation. The idea is to make a
+new joiner well versed with the organizational level policies and procedures
+ After the Induction, candidates are escorted by their respective HR SPOCS directly to their respective
+Functions.
+ Candidates are introduced to their respective teams.
+7.11 Important SLAs for new joiners
+Important HR SPOC (Regional
+tasks TA HR Ops Office) IT Admin
+Share with IT SPOC,
+Admin SPOC, HR Ops
+SPOC with cc to CEO, HR
+Expected
+Head, HR Manager,
+joiner details
+Function Heads for
+respective joiners one day
+in advance by 4pm
+Handover Pre Joining
+Pre Joining
+Documents to HR Ops
+documents
+SPOC on day prior to date
+handover
+of joining by 5pm
+Complete Post Joining
+documentation process &
+Complete Post Joining
+Post Joining Induction on Date of
+documentation process &
+documentatio Joining by 1pm, , share
+Induction on Date of
+n & Induction documents (scan copies)
+Joining by 1pm
+with HR Ops by 2pm,
+Take all new joiners Take all new joiners
+Facility tour
+through the facility & through the facility &
+and Lunch
+complete lunch by 2 pm complete lunch by 2 pm
+Handover Joined Handover Joined
+Handover to
+employees to the employees to the
+Reporting
+Reporting Manager on Reporting Manager on
+Manager
+Date of Joining by 2pm Date of Joining by 2pm
+Version No. 0.1 Page 8 of 10 Release Date: 1/03/17
+
+Table: Page_8_Table_1
+Headers: Important
+tasks, TA, HR Ops, HR SPOC (Regional
+Office), IT, Admin
+Data:
+                         Important\ntasks                                                                                                                                                     TA HR Ops                                                                                                                  HR SPOC (Regional\nOffice) IT Admin
+                 Expected\njoiner details Share with IT SPOC,\nAdmin SPOC, HR Ops\nSPOC with cc to CEO, HR\nHead, HR Manager,\nFunction Heads for\nrespective joiners one day\nin advance by 4pm                                                                                                                                                            
+         Pre Joining\ndocuments\nhandover                                                                Handover Pre Joining\nDocuments to HR Ops\nSPOC on day prior to date\nof joining by 5pm                                                                                                                                                            
+Post Joining\ndocumentatio\nn & Induction                                                                   Complete Post Joining\ndocumentation process &\nInduction on Date of\nJoining by 1pm        Complete Post Joining\ndocumentation process &\nInduction on Date of\nJoining by 1pm, , share\ndocuments (scan copies)\nwith HR Ops by 2pm,         
+                 Facility tour\nand Lunch                                                                                   Take all new joiners\nthrough the facility &\ncomplete lunch by 2 pm                                                                               Take all new joiners\nthrough the facility &\ncomplete lunch by 2 pm         
+          Handover to\nReporting\nManager                                                                        Handover Joined\nemployees to the\nReporting Manager on\nDate of Joining by 2pm                                                                    Handover Joined\nemployees to the\nReporting Manager on\nDate of Joining by 2pm         
+
+Page 9 Text:
+Generate Employee ID &
+share with IT SPOC,
+Employee ID
+Admin SPOC with cc to
+Generation
+CEO, HR Head, HR
+on HRIS &
+Manager, Function
+Joining
+Heads for respective
+confirmation
+joiners on Date of
+Joining by 3pm
+Generate & share on
+email id employee's personal
+generation email id by 5 pm on
+date of joining
+Allocation of desktop /
+laptop as per HR's
+request on date of
+joining by 4pm (For
+Outstation employees
+Laptop /
+they will have to rent a
+Desktop
+laptop @
+allocation
+reimbursement of
+maximum Rs.2,000/ per
+month subject to prior
+approval of HR
+Manager)
+Share ID cards
+Share photograph & Share photograph &
+with HR Ops
+required details with required details with HR
+ID Cards within 3 days
+Admin by 4pm on date Ops by 2pm on date of
+from date of
+of joining joining
+joining
+Map employees as per
+requirement on
+Mapping for Biometric / Mark-In & Map employees on server
+Attendance Mark-Out / Manual / by 5pm on date of joining
+Auto attendance
+process
+File all the documents of
+Courier all the documents
+Filing of new joiner in file &
+to HR Ops within 2 days
+documents archive the file latest by
+from date of joining
+6pm on date of joining
+Seat On date of
+Allocation joining by 5pm
+Generate Appointment
+Letter & NDA, get it
+Appointment
+signed & file within 3
+Letter & NDA
+days from Date of
+Joining
+7.12 Reference Check
+Reference Check is Mandatory for all the Employees joining at Level 3 & above or joining at Annual CTC of
+above 6.0 Lakh Rupees or as per business requirement.
+Version No. 0.1 Page 9 of 10 Release Date: 1/03/17
+
+Table: Page_9_Table_1
+Headers: Employee ID
+Generation
+on HRIS &
+Joining
+confirmation, , Generate Employee ID &
+share with IT SPOC,
+Admin SPOC with cc to
+CEO, HR Head, HR
+Manager, Function
+Heads for respective
+joiners on Date of
+Joining by 3pm, , , 
+Data:
+Employee ID\nGeneration\non HRIS &\nJoining\nconfirmation  Generate Employee ID &\nshare with IT SPOC,\nAdmin SPOC with cc to\nCEO, HR Head, HR\nManager, Function\nHeads for respective\njoiners on Date of\nJoining by 3pm                                                                                                                                                                                                                                                                                                                                                                                         
+                                     email id\ngeneration                                                                                                                                                                                                                                                                                                                                                                                                            Generate & share on\nemployee's personal\nemail id by 5 pm on\ndate of joining                                                                  
+                            Laptop /\nDesktop\nallocation                                                                                                                                                                                                                                                 Allocation of desktop /\nlaptop as per HR's\nrequest on date of\njoining by 4pm (For\nOutstation employees\nthey will have to rent a\nlaptop @\nreimbursement of\nmaximum Rs.2,000/ per\nmonth subject to prior\napproval of HR\nManager)                                                                  
+                                                 ID Cards                                                                                        Share photograph &\nrequired details with\nAdmin by 4pm on date\nof joining Share photograph &\nrequired details with HR\nOps by 2pm on date of\njoining                                                                                                                                                                                                                                           Share ID cards\nwith HR Ops\nwithin 3 days\nfrom date of\njoining
+                                  Mapping for\nAttendance                                                         Map employees as per\nrequirement on\nBiometric / Mark-In &\nMark-Out / Manual /\nAuto attendance\nprocess                           Map employees on server\nby 5pm on date of joining                                                                                                                                                                                                                                                                                                            
+                                     Filing of\ndocuments                                                                File all the documents of\nnew joiner in file &\narchive the file latest by\n6pm on date of joining     Courier all the documents\nto HR Ops within 2 days\nfrom date of joining                                                                                                                                                                                                                                                                                                            
+                                         Seat\nAllocation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  On date of\njoining by 5pm
+                                Appointment\nLetter & NDA                                                                     Generate Appointment\nLetter & NDA, get it\nsigned & file within 3\ndays from Date of\nJoining                                                                                                                                                                                                                                                                                                                                                                                         
+
+Page 10 Text:
+ The candidate provides the resourcing executive name of two people from his previous work place with
+whom feedback is taken about the prospective candidate.
+ Reference checks are made to get an opinion about the candidate from the people whose name, the
+candidate provides (Form 111). This is useful in getting a picture of a candidates’ potential performance in a
+particular job.
+ This check will be done within 15 days from the joining of the candidate.
+ If the required criteria as per the reference check are not met, the matter is forwarded to HR Manager for
+further investigation and action.
+Note : The Company may decide to do a Background check through the 3rd Party vendor as per the need.
+7.12 Relocation Benefit
+ For the candidates joining at Band-3 & above level from Outlocation, SequelOne will Offer initial stay
+arrangements in accordance with the table below subject to prior approval of HR Head and BU Head or CEO
+No. of Max. Budget (Per Day)
+Level
+Days (Boarding & Lodging)
+Band 1 15 5000
+Band 2 15 3500
+Band 3 10 2500
+Note: Stay arrangements could be extended only basis prior approval from HR Head and CEO or member/s of People
+Council
+8. Exit Criteria of Recruitment Process
+ Offer Letter given to the candidate
+ Update Manpower Dashboard
+ Update Recruitment MIS
+9. Review & Control:
+The policy will be reviewed on time to time basis by the People Council and any or all elements of the policy can be
+modified, if required. Any changes will be incorporated in the subsequent version(s) of the policy and same will be
+communicated across the organization through proper channels of communication.
+Version No. 0.1 Page 10 of 10 Release Date: 1/03/17
+
+Table: Page_10_Table_1
+Headers: Level, No. of
+Days, Max. Budget (Per Day)
+(Boarding & Lodging)
+Data:
+ Level No. of\nDays Max. Budget (Per Day)\n(Boarding & Lodging)
+Band 1           15                                        5000
+Band 2           15                                        3500
+Band 3           10                                        2500
+

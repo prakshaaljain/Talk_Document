@@ -1,0 +1,53 @@
+Supercomputers are powerful enough to handle heavy operations in fewer amounts of time.
+The advent of supercomputers started booming in 1500-1600.
+
+A supercomputer is a computer that performs at or near the highest operational rate for computers.
+
+Traditionally, supercomputers have been used for scientific and engineering applications that must handle massive databases, do a great amount of computation or both. Advances like multicore processors and general-purpose graphics processing units have enabled powerful machines that could be called desktop supercomputers or GPU supercomputers.
+
+By definition, a supercomputer is exceptional in terms of performance. At any time, there are a few well-publicized supercomputers that operate at extremely high speeds relative to all other computers. The term supercomputer is sometimes applied to far slower -- but still impressively fast -- computers.
+
+
+How supercomputers work?
+Supercomputer architectures are made up of multiple central processing units (CPUs). These CPUs have groups composed of compute nodes and memory. Supercomputers can contain thousands of nodes that use parallel processing to communicate with one another to solve problems.
+
+The largest, most powerful supercomputers are multiple parallel computers that perform parallel processing. There are two parallel processing approaches: symmetric multiprocessing and massively parallel processing. In some cases, supercomputers are distributed, meaning they draw power from many individual PCs in different locations instead of housing all the CPUs in one location.
+
+Supercomputer processing speed is measured in quadrillion floating point operations per second, also known as petaflops or PFLOPS.
+
+Differences between general-purpose computers and supercomputers
+Supercomputers are general-purpose computers that function at the highest operational rate or peak performance for computers. Processing power is the main difference between supercomputers and general-purpose computer systems. A supercomputer can perform 100 PFLOPS. A typical general-purpose computer can only perform hundreds of gigaflops to tens of teraflops.
+
+Supercomputers consume lots of power. As a result, they generate so much heat that they need to be stored in cooling systems.
+
+Both supercomputers and general-purpose computers differ from quantum computers, which operate based on the principles of quantum physics.
+
+What are supercomputers used for?
+Supercomputers perform resource-intensive calculations that general-purpose computers can't handle. They often run engineering and computational sciences applications, such as the following:
+
+weather forecasting to predict the impact of extreme storms and floods;
+oil and gas exploration to collect huge quantities of geophysical seismic data to aid in finding and developing oil reserves;
+molecular modeling for calculating and analyzing the structures and properties of chemical compounds and crystals;
+physical simulations like modeling supernovas and the birth of the universe;
+aerodynamics such as designing a car with the lowest air drag coefficient;
+nuclear fusion research to build a nuclear fusion reactor that derives energy from plasma reactions;
+medical research to develop new cancer drugs, understand the genetic factors that contribute to opioid addiction and find treatments for COVID-19;
+next-gen materials identification to find new materials for manufacturing; and
+cryptanalysis to analyze cyphertext, ciphers and cryptosystems to understand how they work and identify ways of defeating them.
+Like any computer, supercomputers are used to simulate reality but on a larger scale. Some of the functions of a supercomputer can also be carried out with cloud computing. Like supercomputers, cloud computing combines the power of multiple processors to achieve power that is impossible on a PC.
+
+list of ways supercomputers are used
+Scientists and engineers use supercomputers to simulate reality and make projections.
+Notable supercomputers throughout history
+Seymour Cray designed the first commercially successful supercomputer. It was the Control Data Corporation (CDC) 6600, released in 1964. It had a single CPU and cost $8 million -- the equivalent of $60 million today. CDC 6600 could handle 3 million FLOPS and used vector processors.
+
+Cray went on to found a supercomputer company named Cray Research in 1972. Although the company has had several different owners, it is still in operation as Cray Inc. In September 2008, Cray Inc. and Microsoft launched CX1, a $25,000 personal supercomputer aimed at the aerospace, automotive, academic, financial services and life sciences markets.
+
+IBM has been a keen competitor. IBM Roadrunner was the top-ranked supercomputer when it was launched in 2008. It was twice as fast as IBM's Blue Gene and six times as fast as any other supercomputer at that time. IBM Watson is famous for having adopted cognitive computing to beat champion Ken Jennings on the popular quiz show Jeopardy!
+
+Top supercomputers of recent years
+Sunway's Oceanlite supercomputer is reported to have been competed in 2021. It is thought to be an exascale supercomputer, which is one that can calculate at least 1018 FLOPS.
+
+In the United States, some supercomputer centers are interconnected on an internet backbone known as the very high-speed Backbone Network Service, or vBNS, which is part of the National Science Foundation Network (NSFNET). NSFNET is the foundation for an evolving network infrastructure known as the National Technology Grid. Internet2, a university-led project, is part of this initiative.
+
+At the lower end of supercomputing, data center administrators can use clustering for a build-it-yourself approach. The Beowulf Project offers guidance on how to put together off-the-shelf PC processors, using Linux operating systems, and interconnecting them with Fast Ethernet. Applications must be written to manage the parallel processing.
