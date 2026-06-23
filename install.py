@@ -3,4 +3,4 @@
 !pip install tiktoken
 !pip install langchain
 !pip install PyMuPDF
-!pip install pdfplumber
+!pip install pdfplumber 
