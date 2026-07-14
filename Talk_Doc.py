@@ -8,7 +8,7 @@ from langchain import HuggingFaceHub
 from langchain import PromptTemplate
 from collections import namedtuple
 
-
+ 
 # Some constant
 DS_TYPE_LIST = ["WEB", "PDF", "TXT"]
 SPLIT_TYPE_LIST = ["CHARACTER", "TOKEN"]
