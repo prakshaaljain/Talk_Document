@@ -7,7 +7,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain import HuggingFaceHub
 from langchain import PromptTemplate
 from collections import namedtuple
-
+ 
  
 # Some constant
 DS_TYPE_LIST = ["WEB", "PDF", "TXT"]
