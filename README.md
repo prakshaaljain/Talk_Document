@@ -3,7 +3,7 @@
 The `TalkDocument` Python script is designed to process and interact with documents, embeddings, and question-answering chains. It provides functionalities for loading documents, splitting them into chunks, obtaining embeddings, creating vector storage, performing similarity searches, and answering questions using a question-answering chain.
 
 ## Table of Contents
-
+ 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
